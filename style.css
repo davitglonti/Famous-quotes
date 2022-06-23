@@ -1,0 +1,37 @@
+#conteiner {
+    background-color:lightcyan;
+    max-height: 400px;
+    border: 3px solid rebeccapurple;
+    height: 600px;
+    text-align: center; 
+}
+
+body{
+    background-color: bisque;
+}
+
+#text {
+    color:green;
+    font-size:40px;
+}
+
+#buton {
+    font-size: 25px;
+    width:50%;
+    height:40px;
+    position: relative;
+    top: 20%;
+    border: 5px solid chocolate;
+}
+#buton:hover{
+    color:black;
+    box-shadow: inset 550px 0 0 0 #54b3d6;
+    color: white;
+}
+#result {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    color:green;
+    position: relative;
+    top: 35%;
+}
